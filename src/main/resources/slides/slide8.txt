@@ -1,0 +1,13 @@
+Remember-me
+
+* Long-live token for restoring sessions
+
+* Random
+
+* Token -> session mapping stored (persistently) on server
+
+* Can use cookies/headers+local storage
+
+* Different permissions for "fresh" and restored sessions
+
+* Token rotated on each login

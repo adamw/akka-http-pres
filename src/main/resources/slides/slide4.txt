@@ -1,0 +1,12 @@
+Sessions
+
+* established after authenticating user
+
+* server-side
+  - sticky sessions
+  - persistent storage
+  - Servlets (JSESSIONID)
+
+* client-side
+  - state send to the client and back
+  - Rails, Plays

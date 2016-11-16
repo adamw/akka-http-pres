@@ -1,0 +1,9 @@
+About me
+
+* software engineer (mainly Scala) / co-founder @ SoftwareMill
+
+* open-source: Quicklens, MacWire, ElasticMQ, akka-http-session, Veripacks, Envers, Supler, ...
+
+* [blog](http://www.warski.org)
+
+* [twitter](@adamwarski)

@@ -1,0 +1,11 @@
+JWT
+
+* Json Web Token
+
+* "JSON-based standard for creating access tokens asserting some claims"
+
+* header (hashing algorithm) + payload + signature
+
+* passed in Set-Authorization / Authorization: Bearer [token]
+
+* integrations with frontend libraries, e.g. Angular

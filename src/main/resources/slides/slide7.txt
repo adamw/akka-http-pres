@@ -1,0 +1,10 @@
+Session expiry
+
+* Rather short
+
+* Cookies can have an expiry date
+  - can't trust the client
+  - session cookies often live long
+
+* Embed expiry date in the cookie data
+  - include in signature!

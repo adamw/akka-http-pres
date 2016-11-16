@@ -1,0 +1,14 @@
+Client-side sessions storage
+
+* Cookies: most popular
+  - but security
+  - XSS, CSRF
+
+* Cookie attributes
+  - secure
+  - http-only
+
+* Proper GET usage
+
+* Alternative: use headers & local storage
+  - more code, doesn't work OOTB

@@ -1,0 +1,7 @@
+Our plan for the next 30-40 minutes:
+
+* become familiar with akka-http directives & routes
+
+* refresh session concepts
+
+* use custom akka-http-session directives in practice

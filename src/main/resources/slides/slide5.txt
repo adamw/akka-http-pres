@@ -1,0 +1,9 @@
+Client-side sessions
+
+* Small amount of data - e.g. user id
+
+* Security: content must be signed
+  - server-side secret
+
+* Content can be read on the client
+  - or encrypted
